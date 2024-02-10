@@ -1,1 +1,2 @@
 # doubleMachReflection
+Hi there traveler, this is a C++ code I made for my course "computational fluid dynamics". The code resolves the inviscid Euler equations of a shock wave traveling along an inclined wall using Roe's linearized Riemann solver, generating the well-known double mach reflection problem. The code is currently very basic and will be updated to improve the handling and if time permits even a multi-core implentation. Additionally I plan to make a proper code documentation. For now, enjoy playing with this initial single-core solution.
